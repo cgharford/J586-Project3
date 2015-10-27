@@ -2,9 +2,18 @@ var xml;
 var femaleDeaths = [0, 0, 0, 0, 0];
 var maleDeaths = [0, 0, 0, 0, 0];
 
-var petTypes = [];
+var petTypes = ["Dog", "Cat", "Reptile", "Rabbit"];
+var foundPetTypesCounts = [0, 0, 0, 0];
+var lostPetTypesCounts = [0, 0, 0, 0];
+var adoptablePetTypesCounts = [0, 0, 0, 0];
+
 var recordType= ["Found", "Lost", "Adoptable"];
 var overallRecordCounts= [0, 0, 0];
+var ageRange = ["Under 1 year old", "Over 1 year old", "Unknown"]
+var foundAgeCount = [0, 0, 0];
+var lostAgeCount = [0, 0, 0];
+var adoptableAgeCount = [0, 0, 0];
+
 
 function loadData(){
   $.ajax({
@@ -17,61 +26,129 @@ function loadData(){
 
 function parseData(xml){
 
-  // Build the bar chart
-  // $(xml).find("row").each(function(index){
-  //   var year = ($(this).find("year")).text();
-  //   var index = year % startingYear;
-  //   years[index] = year;
-  //   if (($(this).find("sex")).text() == "MALE") {
-  //     maleDeaths[index] = Number(maleDeaths[index]) + Number(($(this).find("count")).text());
-  //   }
-  //   else {
-  //     femaleDeaths[index] = Number(femaleDeaths[index]) + Number(($(this).find("count")).text());
-  //   }
-  // });
-
-  // Build the pie graph
+  // Build the pie graphs
   $(xml).find("row").each(function(index){
     var type = ($(this).find("animal_type")).text();
-    if ($.inArray(type, petTypes) == -1) {
-      petTypes.push(type);
-    }
+    // if ($.inArray(type, petTypes) == -1) {
+    //   petTypes.push(type);
+    // }
     var record = ($(this).find("record_type")).text();
     switch(record) {
     case "FOUND":
         overallRecordCounts[0] += 1;
+        switch(type) {
+        case "Dog":
+            foundPetTypesCounts[0] += 1;
+            break;
+        case "Cat":
+            foundPetTypesCounts[1] += 1;
+            break;
+        case "Dead Dog":
+            foundPetTypesCounts[0] += 1;
+            break;
+        case "Dead Cat":
+            foundPetTypesCounts[1] += 1;
+            break;
+        case "Reptile":
+            foundPetTypesCounts[2] += 1;
+            break;
+        case "Rabbit":
+            foundPetTypesCounts[3] += 1;
+            break;
+        }
         break;
     case "LOST":
         overallRecordCounts[1] += 1;
+        switch(type) {
+        case "Dog":
+            lostPetTypesCounts[0] += 1;
+            break;
+        case "Cat":
+            lostPetTypesCounts[1] += 1;
+            break;
+        case "Dead Dog":
+            lostPetTypesCounts[0] += 1;
+            break;
+        case "Dead Cat":
+            lostPetTypesCounts[1] += 1;
+            break;
+        case "Reptile":
+            lostPetTypesCounts[2] += 1;
+            break;
+        case "Rabbit":
+            lostPetTypesCounts[3] += 1;
+            break;
+        }
         break;
     case "ADOPTABLE":
         overallRecordCounts[2] += 1;
+        switch(type) {
+        case "Dog":
+            adoptablePetTypesCounts[0] += 1;
+            break;
+        case "Cat":
+            adoptablePetTypesCounts[1] += 1;
+            break;
+        case "Dead Dog":
+            adoptablePetTypesCounts[0] += 1;
+            break;
+        case "Dead Cat":
+            adoptablePetTypesCounts[1] += 1;
+            break;
+        case "Reptile":
+            adoptablePetTypesCounts[2] += 1;
+            break;
+        case "Rabbit":
+            adoptablePetTypesCounts[3] += 1;
+            break;
+        }
         break;
     }
 
-    // var count = ($(this).find("count")).text();
-    // var tmpEthnicityArray = [ethnicity, count];
-    // var newEthnicity = 0;
-    // var index2;
-    // for (i = 0; i < ethnicityCount.length; i++) {
-    //   if (ethnicityCount[i][0] == ethnicity) {
-    //     newEthnicity = 1;
-    //     index2 = i;
-    //     break;
-    //   }
-    // }
-    // if (newEthnicity != 1) {
-    //   ethnicityCount.push(tmpEthnicityArray);
-    // }
-    // else {
-    //   ethnicityCount[index2][1] = Number(ethnicityCount[index2][1]) + Number(count);
-    // }
-
-
+    var age = Number(($(this).find("yearsOld")).text());
+    if (age == 99) { //if unknown
+      switch(record) {
+      case "FOUND":
+        foundAgeCount[2] += 1;
+        break;
+      case "LOST":
+        lostAgeCount[2] += 1;
+        break;
+      case "ADOPTABLE":
+        adoptableAgeCount[2] += 1;
+        break;
+      }
+    }
+    else if (age == 0) {
+      switch(record) {
+      case "FOUND":
+        foundAgeCount[0] += 1;
+        break;
+      case "LOST":
+        lostAgeCount[0] += 1;
+        break;
+      case "ADOPTABLE":
+        adoptableAgeCount[0] += 1;
+        break;
+      }
+    }
+    else {
+      switch(record) {
+      case "FOUND":
+        foundAgeCount[1] += 1;
+        break;
+      case "LOST":
+        lostAgeCount[1] += 1;
+        break;
+      case "ADOPTABLE":
+        adoptableAgeCount[1] += 1;
+        break;
+      }
+    }
 
   });
 
-  // buildChart();
+  buildChart();
   buildPie();
 
   // Builds the table
@@ -103,25 +180,28 @@ $('#bar').highcharts({
         text: 'Class Demographics'
     },
     xAxis: {
-        categories: years
+        categories: ageRange
     },
     yAxis: {
         title: {
-            text: 'Number of deaths'
+            text: 'Number of animals'
         }
     },
     series: [{
-        name: 'Female',
-        data: femaleDeaths
+        name: 'Found',
+        data: foundAgeCount
     }, {
-        name: 'Male',
-        data: maleDeaths
+        name: 'Lost',
+        data: lostAgeCount
+    }, {
+        name: 'Adoptable',
+        data: adoptableAgeCount
     }]
 });
 };
 
 function buildPie() {
-  $('#pie').highcharts({
+  $('#pie1').highcharts({
       chart: {
           plotBackgroundColor: null,
           plotBorderWidth: null,
@@ -164,9 +244,202 @@ function buildPie() {
           }]
       }]
   });
+  $('#pie2').highcharts({
+      chart: {
+          plotBackgroundColor: null,
+          plotBorderWidth: null,
+          plotShadow: false,
+          type: 'pie'
+      },
+      title: {
+          text: 'Animal Type by Record'
+      },
+      tooltip: {
+          pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+      },
+      plotOptions: {
+          pie: {
+              allowPointSelect: true,
+              cursor: 'pointer',
+              dataLabels: {
+                  enabled: true,
+                  format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                  style: {
+                      color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                  }
+              }
+          }
+      },
+      series: [{
+          name: "Type found",
+          colorByPoint: true,
+          data: [{
+              name: petTypes[0],
+              y: foundPetTypesCounts[0],
+              sliced: true,
+              selected: true
+          }, {
+              name: petTypes[1],
+              y: foundPetTypesCounts[1]
+          }, {
+              name: petTypes[2],
+              y: foundPetTypesCounts[2]
+          }, {
+              name: petTypes[3],
+              y: foundPetTypesCounts[3]
+          }]
+      }]
+  });
 };
 
 $(document).ready(function(){
   console.log("doc ready!");
   loadData();
 })
+
+function loadFoundPieChart() {
+  $('#pie2').highcharts({
+      chart: {
+          plotBackgroundColor: null,
+          plotBorderWidth: null,
+          plotShadow: false,
+          type: 'pie'
+      },
+      title: {
+          text: 'Animal Type by Record'
+      },
+      tooltip: {
+          pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+      },
+      plotOptions: {
+          pie: {
+              allowPointSelect: true,
+              cursor: 'pointer',
+              dataLabels: {
+                  enabled: true,
+                  format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                  style: {
+                      color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                  }
+              }
+          }
+      },
+      series: [{
+          name: "Type found",
+          colorByPoint: true,
+          data: [{
+              name: petTypes[0],
+              y: foundPetTypesCounts[0],
+              sliced: true,
+              selected: true
+          }, {
+              name: petTypes[1],
+              y: foundPetTypesCounts[1]
+          }, {
+              name: petTypes[2],
+              y: foundPetTypesCounts[2]
+          }, {
+              name: petTypes[3],
+              y: foundPetTypesCounts[3]
+          }]
+      }]
+  });
+}
+
+function loadLostPieChart() {
+  $('#pie2').highcharts({
+      chart: {
+          plotBackgroundColor: null,
+          plotBorderWidth: null,
+          plotShadow: false,
+          type: 'pie'
+      },
+      title: {
+          text: 'Animal Type by Record'
+      },
+      tooltip: {
+          pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+      },
+      plotOptions: {
+          pie: {
+              allowPointSelect: true,
+              cursor: 'pointer',
+              dataLabels: {
+                  enabled: true,
+                  format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                  style: {
+                      color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                  }
+              }
+          }
+      },
+      series: [{
+          name: "Type found",
+          colorByPoint: true,
+          data: [{
+              name: petTypes[0],
+              y: lostPetTypesCounts[0],
+              sliced: true,
+              selected: true
+          }, {
+              name: petTypes[1],
+              y: lostPetTypesCounts[1]
+          }, {
+              name: petTypes[2],
+              y: lostPetTypesCounts[2]
+          }, {
+              name: petTypes[3],
+              y: lostPetTypesCounts[3]
+          }]
+      }]
+  });
+}
+
+function loadAdoptablePieChart() {
+  $('#pie2').highcharts({
+      chart: {
+          plotBackgroundColor: null,
+          plotBorderWidth: null,
+          plotShadow: false,
+          type: 'pie'
+      },
+      title: {
+          text: 'Animal Type by Record'
+      },
+      tooltip: {
+          pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+      },
+      plotOptions: {
+          pie: {
+              allowPointSelect: true,
+              cursor: 'pointer',
+              dataLabels: {
+                  enabled: true,
+                  format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                  style: {
+                      color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                  }
+              }
+          }
+      },
+      series: [{
+          name: "Type found",
+          colorByPoint: true,
+          data: [{
+              name: petTypes[0],
+              y: adoptablePetTypesCounts[0],
+              sliced: true,
+              selected: true
+          }, {
+              name: petTypes[1],
+              y: adoptablePetTypesCounts[1]
+          }, {
+              name: petTypes[2],
+              y: adoptablePetTypesCounts[2]
+          }, {
+              name: petTypes[3],
+              y: adoptablePetTypesCounts[3]
+          }]
+      }]
+  });
+}

@@ -9,6 +9,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated / Mix</animal_breed>
             <animal_color>Cream</animal_color>
@@ -33,6 +34,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Br Brindle / White</animal_color>
@@ -59,6 +61,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>10 YEARS</age>
+            <yearsOld>10</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Tortie</animal_color>
@@ -83,6 +86,7 @@
             <current_location>LOST</current_location>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Shih Tzu</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -104,6 +108,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>1 YEAR</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Shih Tzu</animal_breed>
             <animal_color>Gray / Tan</animal_color>
@@ -131,6 +136,7 @@
             <animal_name>Tiger</animal_name>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby / White</animal_color>
@@ -156,6 +162,7 @@
             <animal_name>Butters</animal_name>
             <animal_type>Dog</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Bichon Frise / Mix</animal_breed>
             <animal_color>White</animal_color>
@@ -182,6 +189,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>8 YEARS</age>
+            <yearsOld>8</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Yorkshire Terrier</animal_breed>
             <animal_color>Black / Tan</animal_color>
@@ -209,6 +217,7 @@
             <animal_name>Bob</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -233,6 +242,7 @@
             <current_location>Off Site Vet</current_location>
             <animal_type>Cat</animal_type>
             <age>15 YEARS</age>
+            <yearsOld>15</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -260,6 +270,7 @@
             <animal_name>Callie</animal_name>
             <animal_type>Cat</animal_type>
             <age>3 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Tortie / White</animal_color>
@@ -279,6 +290,8 @@
             <animal_name>Katja</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>German Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -300,6 +313,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>3 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Tortie</animal_color>
@@ -325,6 +339,7 @@
             <animal_name>Arius</animal_name>
             <animal_type>Cat</animal_type>
             <age>16 YEARS</age>
+            <yearsOld>16</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -343,6 +358,8 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -364,6 +381,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>3 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby</animal_color>
@@ -389,6 +407,8 @@
             <animal_name>Lyra</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -414,6 +434,8 @@
             <animal_name>Lyra</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -441,6 +463,7 @@
             <animal_name>Rocket</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Seal Pt</animal_color>
@@ -460,6 +483,7 @@
             <animal_name>Ninja</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Blk Smoke</animal_color>
@@ -478,6 +502,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>3 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Black</animal_color>
@@ -502,6 +527,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>5 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -526,6 +552,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>8 YEARS</age>
+            <yearsOld>8</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Blue / White</animal_color>
@@ -551,6 +578,8 @@
             <animal_name>Coco Bear</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -573,6 +602,7 @@
             <animal_name>Zena</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Rat Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -597,6 +627,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>8 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Gray Tabby</animal_color>
@@ -621,6 +652,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair / Siamese</animal_breed>
             <animal_color>Seal Pt / White</animal_color>
@@ -646,6 +678,8 @@
             <animal_name>Rusty</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Golden Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -670,6 +704,8 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Dachshund</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -694,6 +730,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair / Siamese</animal_breed>
             <animal_color>Lynx Pt / White</animal_color>
@@ -718,6 +755,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair / Siamese</animal_breed>
             <animal_color>Lilac Pt / White</animal_color>
@@ -742,6 +780,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray / White</animal_color>
@@ -766,6 +805,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>12 YEARS</age>
+            <yearsOld>12</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -790,6 +830,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair / Siamese</animal_breed>
             <animal_color>Lynx Pt / White</animal_color>
@@ -813,6 +854,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Gray / White</animal_color>
@@ -837,6 +879,7 @@
             <animal_name>Lilly</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Canaan Dog</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -862,6 +905,8 @@
             <animal_name>Spike</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -886,6 +931,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair / Siamese</animal_breed>
             <animal_color>Seal Pt / White</animal_color>
@@ -910,6 +956,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Jack Russell Terrier</animal_breed>
             <animal_color>White / Gray</animal_color>
@@ -934,6 +981,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair / Siamese</animal_breed>
             <animal_color>Lynx Pt / White</animal_color>
@@ -959,6 +1007,7 @@
             <animal_name>Lucy</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -981,6 +1030,7 @@
             <animal_name>Leonard</animal_name>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby</animal_color>
@@ -1005,6 +1055,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair / Siamese</animal_breed>
             <animal_color>Lynx Pt / White</animal_color>
@@ -1029,6 +1080,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -1055,6 +1107,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>8 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Gray</animal_color>
@@ -1079,6 +1132,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair / Siamese</animal_breed>
             <animal_color>Lynx Pt / White</animal_color>
@@ -1103,6 +1157,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray / White</animal_color>
@@ -1128,6 +1183,8 @@
             <animal_name>Whitey</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -1149,6 +1206,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>NO AGE</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Lynx Pt</animal_color>
@@ -1173,6 +1231,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Mastiff / Germ Shepherd</animal_breed>
             <animal_color>Brown / Black</animal_color>
@@ -1195,6 +1254,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>6 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray Tabby</animal_color>
@@ -1221,6 +1281,7 @@
             <animal_name>Wizard</animal_name>
             <animal_type>Dog</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pembroke Welsh Corgi / Mix</animal_breed>
             <animal_color>Sable / White</animal_color>
@@ -1245,6 +1306,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>4 DAYS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -1269,6 +1331,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>4 DAYS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -1293,6 +1356,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Tortie</animal_color>
@@ -1319,6 +1383,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>4 DAYS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -1343,6 +1408,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Dog</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated</animal_breed>
             <animal_color>Brown / Black</animal_color>
@@ -1368,6 +1434,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>NO AGE</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray / White</animal_color>
@@ -1393,6 +1460,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray</animal_color>
@@ -1418,6 +1486,8 @@
             <animal_name>Miss Shadow</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -1442,6 +1512,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Welsh Terrier</animal_breed>
             <animal_color>Black / Brown</animal_color>
@@ -1463,6 +1534,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby</animal_color>
@@ -1490,6 +1562,8 @@
             <animal_name>Tank</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -1514,6 +1588,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -1538,6 +1613,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>1 YEAR</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated / Mix</animal_breed>
             <animal_color>Brown</animal_color>
@@ -1563,6 +1639,8 @@
             <animal_name>Cairo</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -1587,6 +1665,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>4 DAYS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -1611,6 +1690,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby / White</animal_color>
@@ -1629,6 +1709,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -1654,6 +1735,7 @@
             <animal_name>Willow</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -1680,6 +1762,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -1706,6 +1789,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>10 YEARS</age>
+            <yearsOld>10</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Yorkshire Terrier / Mix</animal_breed>
             <animal_color>White / Gray</animal_color>
@@ -1731,6 +1815,7 @@
             <animal_name>Lilly</animal_name>
             <animal_type>Cat</animal_type>
             <age>8 YEARS</age>
+            <yearsOld>8</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Calico</animal_color>
@@ -1749,6 +1834,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>5 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Tortie Pt</animal_color>
@@ -1773,6 +1859,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>5 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Seal Pt</animal_color>
@@ -1798,6 +1885,8 @@
             <animal_name>Pippy</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -1820,6 +1909,8 @@
             <animal_name>Patch</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -1841,6 +1932,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>9 YEARS</age>
+            <yearsOld>9</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Maltese / Mix</animal_breed>
             <animal_color>White</animal_color>
@@ -1868,6 +1960,7 @@
             <animal_name>Willow</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -1893,6 +1986,8 @@
             <animal_name>Chewy</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -1915,6 +2010,7 @@
             <animal_name>Donald</animal_name>
             <animal_type>Cat</animal_type>
             <age>3 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -1942,6 +2038,8 @@
             <animal_name>Phoebe</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pug</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -1966,6 +2064,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>5 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Orange / White</animal_color>
@@ -1985,6 +2084,7 @@
             <animal_name>Goldie</animal_name>
             <animal_type>Cat</animal_type>
             <age>9 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Orange / White</animal_color>
@@ -2011,6 +2111,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>10 YEARS</age>
+            <yearsOld>10</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>White</animal_color>
@@ -2036,6 +2137,8 @@
             <animal_name>Molly</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pomeranian</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2058,6 +2161,8 @@
             <animal_name>Gus</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pug</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2079,6 +2184,8 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Shih Tzu</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -2103,6 +2210,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -2127,6 +2235,8 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pug</animal_breed>
             <animal_color>Brown</animal_color>
@@ -2147,6 +2257,8 @@
             <animal_name>Gus</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pug</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2169,6 +2281,7 @@
             <animal_name>Rider</animal_name>
             <animal_type>Dog</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Black</animal_color>
@@ -2194,6 +2307,8 @@
             <animal_name>Magnus</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Bulldog</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2215,6 +2330,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>27 DAYS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray</animal_color>
@@ -2239,6 +2355,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>5 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Orange / White</animal_color>
@@ -2266,6 +2383,7 @@
             <animal_name>Simba</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Yorkshire Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2287,6 +2405,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Yellow</animal_color>
@@ -2313,6 +2432,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>8 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -2338,6 +2458,7 @@
             <animal_name>Goldie</animal_name>
             <animal_type>Cat</animal_type>
             <age>9 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Orange / White</animal_color>
@@ -2356,6 +2477,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>8 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -2381,6 +2503,7 @@
             <animal_name>Maverick</animal_name>
             <animal_type>Cat</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -2406,6 +2529,8 @@
             <animal_name>Bear</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2431,6 +2556,8 @@
             <animal_name>Simon</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2453,6 +2580,7 @@
             <animal_name>Katie</animal_name>
             <animal_type>Dog</animal_type>
             <age>6 YEARS</age>
+            <yearsOld>6</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Dachshund</animal_breed>
             <animal_color>Black / Tan</animal_color>
@@ -2480,6 +2608,8 @@
             <animal_name>Lancelot</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pomeranian</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2502,6 +2632,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby</animal_color>
@@ -2527,6 +2658,8 @@
             <animal_name>Disney</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Boston Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2547,6 +2680,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Dog</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Fawn</animal_color>
@@ -2572,6 +2706,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Choc Pt / White</animal_color>
@@ -2596,6 +2731,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Choc Pt / White</animal_color>
@@ -2614,6 +2750,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Gray / White</animal_color>
@@ -2639,6 +2776,7 @@
             <animal_name>Maverick</animal_name>
             <animal_type>Cat</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -2658,6 +2796,7 @@
             <animal_name>Lila</animal_name>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2683,6 +2822,8 @@
             <animal_name>Danu</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2708,6 +2849,8 @@
             <animal_name>Arty</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2728,6 +2871,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>6 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Orange / White</animal_color>
@@ -2752,6 +2896,8 @@
             <animal_name>Goldie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2773,6 +2919,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>7 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -2799,6 +2946,8 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Border Collie</animal_breed>
             <animal_color>Brown / White</animal_color>
@@ -2820,6 +2969,7 @@
             <animal_name>Tabitha</animal_name>
             <animal_type>Dead Cat</animal_type>
             <age>12 YEARS</age>
+            <yearsOld>12</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / Brown</animal_color>
@@ -2842,6 +2992,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>NO AGE</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -2867,6 +3018,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -2891,6 +3043,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>7 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / Silver</animal_color>
@@ -2918,6 +3071,7 @@
             <animal_name>Sam</animal_name>
             <animal_type>Dog</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Icelandic</animal_breed>
             <animal_color>Sable</animal_color>
@@ -2943,6 +3097,8 @@
             <animal_name>Margot</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -2967,6 +3123,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Standard Poodle</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -2992,6 +3149,8 @@
             <animal_name>Goldie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -3016,6 +3175,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>8 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Br Brindle / White</animal_color>
@@ -3040,6 +3200,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>8 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Br Brindle / White</animal_color>
@@ -3059,6 +3220,7 @@
             <animal_name>Sam</animal_name>
             <animal_type>Dog</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Icelandic</animal_breed>
             <animal_color>Sable</animal_color>
@@ -3085,6 +3247,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>7 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -3111,6 +3274,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Seal Pt / White</animal_color>
@@ -3135,6 +3299,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -3160,6 +3325,8 @@
             <animal_name>Tequila</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -3183,6 +3350,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -3205,6 +3373,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -3229,6 +3398,7 @@
             <animal_name>Peach</animal_name>
             <animal_type>Dog</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated / Mix</animal_breed>
             <animal_color>White / Fawn</animal_color>
@@ -3256,6 +3426,7 @@
             <animal_name>Peach</animal_name>
             <animal_type>Dog</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated / Mix</animal_breed>
             <animal_color>White / Fawn</animal_color>
@@ -3282,6 +3453,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>29 DAYS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby / White</animal_color>
@@ -3306,6 +3478,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -3330,6 +3503,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>1 YEAR</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Dilute Tor</animal_color>
@@ -3353,6 +3527,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -3377,6 +3552,8 @@
             <animal_name>Titus</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Jack Russell Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -3397,6 +3574,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -3419,6 +3597,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -3442,6 +3621,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>8 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Seal Pt</animal_color>
@@ -3467,6 +3647,7 @@
             <animal_name>Kawai</animal_name>
             <animal_type>Cat</animal_type>
             <age>6 YEARS</age>
+            <yearsOld>6</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby</animal_color>
@@ -3494,6 +3675,8 @@
             <animal_name>Ruby</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Wirehair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -3515,6 +3698,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>6 WEEKS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -3538,6 +3722,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>1 YEAR</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Dilute Tor</animal_color>
@@ -3556,6 +3741,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>8 YEARS</age>
+            <yearsOld>8</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -3581,6 +3767,8 @@
             <animal_name>Pearl</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -3606,6 +3794,7 @@
             <animal_name>Alexa</animal_name>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -3632,6 +3821,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Tan / White</animal_color>
@@ -3657,6 +3847,7 @@
             <animal_name>Katie</animal_name>
             <animal_type>Cat</animal_type>
             <age>1 YEAR 5 MONTHS</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -3676,6 +3867,8 @@
             <animal_name>Romeo</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -3700,6 +3893,7 @@
             <animal_name>Diva</animal_name>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Tortie</animal_color>
@@ -3719,6 +3913,7 @@
             <animal_name>Misha</animal_name>
             <animal_type>Dog</animal_type>
             <age>11 YEARS</age>
+            <yearsOld>11</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Dachshund</animal_breed>
             <animal_color>Blue Merle</animal_color>
@@ -3737,6 +3932,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>4 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray Tabby</animal_color>
@@ -3761,6 +3957,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Gray</animal_color>
@@ -3787,6 +3984,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Dachshund / Mix</animal_breed>
             <animal_color>Tan</animal_color>
@@ -3813,6 +4011,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>4 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray Tabby</animal_color>
@@ -3832,6 +4031,8 @@
             <animal_name>Kaluha</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -3853,6 +4054,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Gray</animal_color>
@@ -3879,6 +4081,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray</animal_color>
@@ -3903,6 +4106,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Australian Terrier</animal_breed>
             <animal_color>Brown</animal_color>
@@ -3925,6 +4129,7 @@
             <animal_name>Diva</animal_name>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Tortie</animal_color>
@@ -3949,6 +4154,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Tan / White</animal_color>
@@ -3967,6 +4173,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray / White</animal_color>
@@ -3993,6 +4200,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray</animal_color>
@@ -4020,6 +4228,8 @@
             <animal_name>Riley</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4044,6 +4254,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
             <date>2015-10-16T00:00:00</date>
@@ -4065,6 +4276,8 @@
             <animal_name>Tyson</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Dachshund</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4087,6 +4300,7 @@
             <animal_name>Oreo</animal_name>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -4106,6 +4320,7 @@
             <animal_name>Ghost</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4128,6 +4343,8 @@
             <animal_name>Eleano</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Australian Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4150,6 +4367,7 @@
             <animal_name>Cosmo</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Gray Tabby</animal_color>
@@ -4174,6 +4392,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Alaskan Husky</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -4196,6 +4415,7 @@
             <animal_name>Buffy</animal_name>
             <animal_type>Cat</animal_type>
             <age>8 YEARS</age>
+            <yearsOld>8</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Yellow / White</animal_color>
@@ -4222,6 +4442,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4244,6 +4465,7 @@
             <animal_name>Chico</animal_name>
             <animal_type>Dog</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated / Mix</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -4270,6 +4492,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Boxer</animal_breed>
             <animal_color>Br Brindle / White</animal_color>
@@ -4297,6 +4520,7 @@
             <animal_name>Skeeter</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4322,6 +4546,7 @@
             <animal_name>Fenix</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4347,6 +4572,7 @@
             <animal_name>Chico</animal_name>
             <animal_type>Dog</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated / Mix</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -4372,6 +4598,7 @@
             <animal_name>Gnocchi</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4394,6 +4621,7 @@
             <animal_name>Jasper</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4419,6 +4647,7 @@
             <animal_name>Amos</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Beagle</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4440,6 +4669,7 @@
             <current_location>LOST</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Miniature Schnauzer</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4464,6 +4694,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -4489,6 +4720,7 @@
             <animal_name>Emmitt</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Boston Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4511,6 +4743,7 @@
             <animal_name>Livvy</animal_name>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray Tabby</animal_color>
@@ -4538,6 +4771,7 @@
             <animal_name>Sam</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4560,6 +4794,7 @@
             <animal_name>Laddie</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Shih Tzu</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4585,6 +4820,7 @@
             <animal_name>Duke</animal_name>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Shih Tzu</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4610,6 +4846,7 @@
             <animal_name>Bo</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4634,6 +4871,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_breed>Chihuahua - Smooth Coated</animal_breed>
             <animal_color>Brown / Unknown</animal_color>
             <date>2015-10-12T00:00:00</date>
@@ -4654,6 +4892,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -4678,6 +4917,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>White / Brown</animal_color>
@@ -4700,6 +4940,7 @@
             <animal_name>Duke</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Shih Tzu</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4722,6 +4963,7 @@
             <animal_name>Zeus</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4744,6 +4986,7 @@
             <animal_name>Roxy</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4769,6 +5012,7 @@
             <animal_name>Ella</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4794,6 +5038,7 @@
             <animal_name>Captain</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4815,6 +5060,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>White / Unknown</animal_color>
@@ -4837,6 +5083,7 @@
             <animal_name>Abbey</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Jack Russell Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4859,6 +5106,7 @@
             <animal_name>Viktor</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Cardigan Welsh Corgi</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4884,6 +5132,7 @@
             <animal_name>Einstein</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4909,6 +5158,7 @@
             <animal_name>Juliet</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -4930,6 +5180,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -4954,6 +5205,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -4979,6 +5231,7 @@
             <animal_name>Buddy</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5000,6 +5253,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>12 YEARS</age>
+            <yearsOld>12</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -5027,6 +5281,7 @@
             <animal_name>Mewston</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5052,6 +5307,7 @@
             <animal_name>Jack</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5074,6 +5330,7 @@
             <animal_name>Jaden</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>German Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5099,6 +5356,7 @@
             <animal_name>Louie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5124,6 +5382,7 @@
             <animal_name>Trinity</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5144,6 +5403,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Dog</animal_type>
             <age>NO AGE</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Australian Cattle Dog / Mix</animal_breed>
             <animal_color>Black / Brown</animal_color>
@@ -5169,6 +5429,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -5194,6 +5455,7 @@
             <animal_name>Tk</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5219,6 +5481,7 @@
             <animal_name>Jasper</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5244,6 +5507,7 @@
             <animal_name>Shelby</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>German Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5266,6 +5530,7 @@
             <animal_name>Zuzu</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Picardy Sheepdog</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5288,6 +5553,7 @@
             <animal_name>Gotham</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Burmese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5312,6 +5578,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>5 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Lynx Pt</animal_color>
@@ -5336,6 +5603,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>6 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Longhair / Siamese</animal_breed>
             <animal_color>Lynx Pt</animal_color>
@@ -5361,6 +5629,7 @@
             <animal_name>Bobette</animal_name>
             <animal_type>Cat</animal_type>
             <age>9 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -5387,6 +5656,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Toy Fox Terrier</animal_breed>
             <animal_color>Brown</animal_color>
@@ -5412,6 +5682,7 @@
             <animal_name>George</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5434,6 +5705,7 @@
             <animal_name>Cersi</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -5461,6 +5733,7 @@
             <animal_name>Pekka</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pug</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5483,6 +5756,7 @@
             <animal_name>Elmer</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5505,6 +5779,7 @@
             <animal_name>Ariel</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5526,6 +5801,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -5551,6 +5827,7 @@
             <animal_name>Buster</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Havanese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5576,6 +5853,7 @@
             <animal_name>Buster</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Havanese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5599,6 +5877,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>1 YEAR</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -5625,6 +5904,7 @@
             <animal_name>Luna</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Angora</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5647,6 +5927,7 @@
             <animal_name>Sully</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5671,6 +5952,7 @@
             <current_location>LOST</current_location>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5696,6 +5978,7 @@
             <animal_name>Kittie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5721,6 +6004,7 @@
             <animal_name>Sully</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5746,6 +6030,7 @@
             <animal_name>Juanita</animal_name>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -5772,6 +6057,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Maltese</animal_breed>
             <animal_color>White</animal_color>
@@ -5790,6 +6076,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Dog</animal_type>
             <age>NO AGE</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated</animal_breed>
             <animal_color>Tan</animal_color>
@@ -5816,6 +6103,7 @@
             <animal_name>Marlee</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5838,6 +6126,7 @@
             <animal_name>Lucy</animal_name>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -5863,6 +6152,7 @@
             <animal_name>Princess</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5888,6 +6178,7 @@
             <animal_name>Lucky</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Australian Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5910,6 +6201,7 @@
             <animal_name>Juanita</animal_name>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -5934,7 +6226,8 @@
             <current_location>LOST</current_location>
             <animal_name>Cooper</animal_name>
             <animal_type>Cat</animal_type>
-            <age>Under 1 year</age>
+            <age>Under 1 year</age><yearsOld>0</yearsOld>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5960,6 +6253,7 @@
             <animal_name>Suki</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -5981,6 +6275,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated</animal_breed>
             <animal_color>Brown</animal_color>
@@ -6006,6 +6301,7 @@
             <animal_name>Pip</animal_name>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
             <date>2015-10-06T00:00:00</date>
@@ -6029,6 +6325,7 @@
             <current_location>Cat &amp; Kaboodle</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Blk Smoke / White</animal_color>
@@ -6047,6 +6344,7 @@
             <current_location>Cat &amp; Kaboodle</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Blk Smoke / White</animal_color>
@@ -6065,7 +6363,8 @@
             <current_location>LOST</current_location>
             <animal_name>Ruger</animal_name>
             <animal_type>Dog</animal_type>
-            <age>Under 1 year</age>
+            <age>Under 1 year</age><yearsOld>0</yearsOld>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>German Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6088,6 +6387,7 @@
             <animal_name>Sage</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6113,6 +6413,7 @@
             <animal_name>Wizzie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6134,6 +6435,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>German Shepherd</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -6153,6 +6455,7 @@
             <current_location>Cat &amp; Kaboodle</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Blk Smoke / White</animal_color>
@@ -6178,6 +6481,7 @@
             <animal_name>Roscoe</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Golden Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6200,6 +6504,7 @@
             <animal_name>Pip</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6224,6 +6529,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>White</animal_color>
@@ -6245,6 +6551,7 @@
             <current_location>Cat &amp; Kaboodle</current_location>
             <animal_type>Cat</animal_type>
             <age>2 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Blk Smoke / White</animal_color>
@@ -6269,6 +6576,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>6 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -6294,6 +6602,7 @@
             <animal_name>Tractor</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6318,6 +6627,7 @@
             <current_location>Cat &amp; Kaboodle</current_location>
             <animal_type>Cat</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -6336,6 +6646,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>5 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -6360,6 +6671,7 @@
             <current_location>Cat &amp; Kaboodle</current_location>
             <animal_type>Cat</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -6385,6 +6697,7 @@
             <animal_name>Annie</animal_name>
             <animal_type>Dog</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Jack Russell Terrier</animal_breed>
             <animal_color>White / Tan</animal_color>
@@ -6410,6 +6723,7 @@
             <animal_name>Smoke</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Russian Blue</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6433,6 +6747,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Org Tabby</animal_color>
@@ -6457,6 +6772,7 @@
             <animal_name>Lilac</animal_name>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray Tabby</animal_color>
@@ -6482,6 +6798,7 @@
             <animal_name>Earl Gleesin</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6504,6 +6821,7 @@
             <animal_name>Buddy</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pembroke Welsh Corgi</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6525,6 +6843,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Pixiebob Shorthair</animal_breed>
             <animal_color>Gray Tabby</animal_color>
@@ -6544,6 +6863,7 @@
             <animal_name>Tommy</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6569,6 +6889,7 @@
             <animal_name>Lola</animal_name>
             <animal_type>Reptile</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Reptile</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6594,6 +6915,7 @@
             <animal_name>Tank</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6619,6 +6941,7 @@
             <animal_name>Riley</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6644,6 +6967,7 @@
             <animal_name>Sophie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6669,6 +6993,7 @@
             <animal_name>Vito</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6691,6 +7016,7 @@
             <animal_name>Casper</animal_name>
             <animal_type>Cat</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Blk Smoke</animal_color>
@@ -6715,6 +7041,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray</animal_color>
@@ -6740,6 +7067,7 @@
             <animal_name>Garfield</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6764,6 +7092,7 @@
             <animal_name>Day</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6786,6 +7115,7 @@
             <animal_name>Reno</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>German Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6808,6 +7138,7 @@
             <animal_name>Angel</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6830,6 +7161,7 @@
             <animal_name>Puka</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pomeranian</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6851,6 +7183,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_breed>Pointer</animal_breed>
             <animal_color>Unknown</animal_color>
             <date>2015-10-04T00:00:00</date>
@@ -6875,6 +7208,7 @@
             <animal_name>Nemo</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6900,6 +7234,7 @@
             <animal_name>Mona</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6922,6 +7257,7 @@
             <animal_name>Bosco</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Akita</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6944,6 +7280,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Eng Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6969,6 +7306,7 @@
             <animal_name>Croq</animal_name>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -6994,6 +7332,7 @@
             <animal_name>Mac</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7016,6 +7355,7 @@
             <animal_name>Pearl</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Australian Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7038,6 +7378,7 @@
             <animal_name>Nikki</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Siberian Husky</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7063,6 +7404,7 @@
             <animal_name>Pippy</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7085,6 +7427,7 @@
             <animal_name>Jake</animal_name>
             <animal_type>Dog</animal_type>
             <age>4 YEARS</age>
+            <yearsOld>4</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Pit Bull / Mix</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -7110,6 +7453,7 @@
             <animal_name>Seventy-Four</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7132,6 +7476,7 @@
             <animal_name>Spike</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Chow Chow</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7157,6 +7502,7 @@
             <animal_name>Dixie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7179,6 +7525,7 @@
             <animal_name>Zack</animal_name>
             <animal_type>Cat</animal_type>
             <age>9 YEARS</age>
+            <yearsOld>9</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby / White</animal_color>
@@ -7198,6 +7545,7 @@
             <animal_name>Fatdaddy</animal_name>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7220,6 +7568,7 @@
             <animal_name>Jet</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7242,6 +7591,7 @@
             <animal_name>Terry</animal_name>
             <animal_type>Dog</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Bull Terrier</animal_breed>
             <animal_color>White / Black</animal_color>
@@ -7269,6 +7619,7 @@
             <animal_name>Tasha</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7290,6 +7641,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated</animal_breed>
             <animal_color>Brown / White</animal_color>
@@ -7315,6 +7667,7 @@
             <animal_name>Stella</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>English Pointer</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7340,6 +7693,7 @@
             <animal_name>Levi</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Maine Coon</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7365,6 +7719,7 @@
             <animal_name>Lucky</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Beagle</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7390,6 +7745,7 @@
             <animal_name>Tasha</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7415,6 +7771,7 @@
             <animal_name>Oreo</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7437,6 +7794,7 @@
             <animal_name>Puff</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Siberian Husky</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7462,6 +7820,7 @@
             <animal_name>Purrrl</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby / White</animal_color>
@@ -7487,6 +7846,7 @@
             <animal_name>Fluffy</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Toy Poodle</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7510,6 +7870,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>NO AGE</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -7534,6 +7895,7 @@
             <animal_name>Koopa</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Miniature Schnauzer</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7559,6 +7921,7 @@
             <animal_name>Jarred</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7584,6 +7947,7 @@
             <link url="http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"/>
             <animal_type>Dead Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Unaltered</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -7608,6 +7972,7 @@
             <animal_name>Sake</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Ragdoll</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7630,6 +7995,7 @@
             <animal_name>Zoe</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Bichon Frise</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7654,6 +8020,7 @@
             <animal_name>Peanut</animal_name>
             <animal_type>Dead Dog</animal_type>
             <age>NO AGE</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Miniature Pinscher</animal_breed>
             <animal_color>Black / Tan</animal_color>
@@ -7678,6 +8045,7 @@
             <animal_name>Babygirl</animal_name>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7700,6 +8068,7 @@
             <animal_name>Crybaby</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7725,6 +8094,7 @@
             <animal_name>Coltrain</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Russian Blue</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7747,6 +8117,7 @@
             <animal_name>Roxi</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Akita</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7771,6 +8142,7 @@
             <current_location>LOST</current_location>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_breed>Bombay</animal_breed>
             <animal_color>Unknown</animal_color>
             <date>2015-09-29T00:00:00</date>
@@ -7795,6 +8167,7 @@
             <animal_name>Copper</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7819,6 +8192,7 @@
             <animal_name>Bane</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7843,6 +8217,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>German Shepherd</animal_breed>
             <animal_color>White / Unknown</animal_color>
@@ -7865,6 +8240,7 @@
             <animal_name>Bear Grylls</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7890,6 +8266,7 @@
             <animal_name>Jessy</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7914,6 +8291,7 @@
             <animal_name>Minnie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7936,6 +8314,7 @@
             <animal_name>Pai Pai</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Affenpinscher</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7961,6 +8340,7 @@
             <animal_name>Willow</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -7986,6 +8366,7 @@
             <animal_name>William</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8011,6 +8392,7 @@
             <animal_name>Ellie</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Beagle</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8035,6 +8417,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>3 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -8059,6 +8442,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Boxer</animal_breed>
             <animal_color>Brown</animal_color>
@@ -8084,6 +8468,7 @@
             <animal_name>Molly</animal_name>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Toy Poodle</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8106,6 +8491,7 @@
             <animal_name>Lily</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Boxer</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8131,6 +8517,7 @@
             <animal_name>Yuuki</animal_name>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
             <date>2015-09-28T00:00:00</date>
@@ -8151,6 +8538,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Cat</animal_type>
             <age>7 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -8176,6 +8564,7 @@
             <animal_name>Lizzie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8201,6 +8590,7 @@
             <animal_name>Rocky</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8226,6 +8616,7 @@
             <animal_name>Waffles</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8250,6 +8641,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Basset Hound</animal_breed>
             <animal_color>Brown / White</animal_color>
@@ -8275,6 +8667,7 @@
             <animal_name>Cosmo</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8299,6 +8692,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
             <date>2015-09-27T00:00:00</date>
@@ -8320,6 +8714,7 @@
             <animal_name>Ruger</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Savannah</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8341,6 +8736,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
             <date>2015-09-27T00:00:00</date>
@@ -8362,6 +8758,7 @@
             <animal_name>Miguel</animal_name>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Persian</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8384,6 +8781,7 @@
             <animal_name>Firefox</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8409,6 +8807,7 @@
             <animal_name>Manny</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8430,6 +8829,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8452,6 +8852,7 @@
             <animal_name>Boomer</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8474,6 +8875,7 @@
             <animal_name>Beam</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Cocker Spaniel</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8496,6 +8898,7 @@
             <animal_name>Sparky</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8521,6 +8924,7 @@
             <animal_name>Milo</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8545,6 +8949,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_breed>Doberman Pinscher</animal_breed>
             <animal_color>Black / Brown</animal_color>
             <date>2015-09-26T00:00:00</date>
@@ -8564,6 +8969,7 @@
             <animal_name>Trixie</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Chihuahua - Smooth Coated</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8588,6 +8994,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>6 YEARS</age>
+            <yearsOld>6</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>German Shepherd</animal_breed>
             <animal_color>Tan / Black</animal_color>
@@ -8615,6 +9022,7 @@
             <animal_name>Chevy</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Australian Cattle Dog</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8640,6 +9048,7 @@
             <animal_name>Jet</animal_name>
             <animal_type>Cat</animal_type>
             <age>4 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -8667,6 +9076,7 @@
             <animal_name>Nelly</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Airedale Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8691,6 +9101,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Rottweiler</animal_breed>
             <animal_color>Black / Brown</animal_color>
@@ -8712,6 +9123,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8732,6 +9144,7 @@
             <animal_name>Mac &amp; Stella</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
             <date>2015-09-25T00:00:00</date>
@@ -8753,6 +9166,7 @@
             <animal_name>Roxie</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Rat Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8775,6 +9189,7 @@
             <animal_name>Pearl</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Standard Poodle</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8798,6 +9213,7 @@
             <animal_name>Melvin</animal_name>
             <animal_type>Cat</animal_type>
             <age>8 YEARS</age>
+            <yearsOld>8</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray Tabby / White</animal_color>
@@ -8817,6 +9233,7 @@
             <animal_name>Rika</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Siberian Husky</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8839,6 +9256,7 @@
             <animal_name>Kevin</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Maine Coon</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8864,6 +9282,7 @@
             <animal_name>Howey</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8885,6 +9304,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Rabbit</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_breed>Rabbit</animal_breed>
             <animal_color>Black / Unknown</animal_color>
             <date>2015-09-25T00:00:00</date>
@@ -8908,6 +9328,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Rhodesian Ridgeback</animal_breed>
             <animal_color>Brown</animal_color>
@@ -8930,6 +9351,7 @@
             <animal_name>Klaudia</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Border Collie</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8952,6 +9374,7 @@
             <animal_name>Stella Blue</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Jack Russell Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8977,6 +9400,7 @@
             <animal_name>Hercules</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -8999,6 +9423,7 @@
             <animal_name>Ninny</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9024,6 +9449,7 @@
             <animal_name>Boots</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9048,6 +9474,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Pit Bull Terrier</animal_breed>
             <animal_color>White</animal_color>
@@ -9069,6 +9496,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Brown</animal_color>
@@ -9091,6 +9519,7 @@
             <animal_name>Snuggles</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9116,6 +9545,7 @@
             <animal_name>Opie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9138,6 +9568,7 @@
             <animal_name>Lulu</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Shih Tzu</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9160,6 +9591,7 @@
             <animal_name>Lil Bit</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9182,6 +9614,7 @@
             <animal_name>Tigger</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9207,6 +9640,7 @@
             <animal_name>Roo</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9232,6 +9666,7 @@
             <animal_name>Madison</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9254,6 +9689,7 @@
             <animal_name>Juneau</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Border Collie</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9276,6 +9712,7 @@
             <animal_name>Baby</animal_name>
             <animal_type>Cat</animal_type>
             <age>10 YEARS</age>
+            <yearsOld>10</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -9294,6 +9731,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brown / Black</animal_color>
             <date>2015-09-22T00:00:00</date>
@@ -9312,6 +9750,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Basenji</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9337,6 +9776,7 @@
             <animal_name>Ninja</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9361,6 +9801,7 @@
             <current_location>King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032</current_location>
             <animal_type>Dog</animal_type>
             <age>7 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Terrier / Mix</animal_breed>
             <animal_color>White / Black</animal_color>
@@ -9388,6 +9829,7 @@
             <animal_name>Gracie</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>West Highland White Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9410,6 +9852,7 @@
             <animal_name>Maxwell</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Boston Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9435,6 +9878,7 @@
             <animal_name>Heidi</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Australian Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9460,6 +9904,7 @@
             <animal_name>Hercules</animal_name>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -9487,6 +9932,7 @@
             <animal_name>Ellie</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Rottweiler</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9512,6 +9958,7 @@
             <animal_name>Tundra</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Maine Coon</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9539,6 +9986,7 @@
             <animal_name>Kirby</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Yorkshire Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9564,6 +10012,7 @@
             <animal_name>Riley</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Dachshund</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9589,6 +10038,7 @@
             <animal_name>Peaches</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9614,6 +10064,7 @@
             <animal_name>Shadow</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Persian</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9636,6 +10087,7 @@
             <animal_name>Ginger</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9661,6 +10113,7 @@
             <animal_name>Moo</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9686,6 +10139,7 @@
             <animal_name>Willie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9708,6 +10162,7 @@
             <animal_name>Riley</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Dachshund</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9730,6 +10185,7 @@
             <animal_name>Sasha</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Australian Cattle Dog</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9755,6 +10211,7 @@
             <animal_name>Riley</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Dachshund</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9780,6 +10237,7 @@
             <animal_name>Benji</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Australian Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9805,6 +10263,7 @@
             <animal_name>Hope/chibi</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Yorkshire Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9830,6 +10289,7 @@
             <animal_name>Rascal</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9851,6 +10311,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Cavalier King Charles Spaniel</animal_breed>
             <animal_color>White / Black</animal_color>
@@ -9876,6 +10337,7 @@
             <animal_name>Sasha Lucy</animal_name>
             <animal_type>Dog</animal_type>
             <age>Unknown</age>
+            <yearsOld>99</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>German Shorthaired Pointer</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9900,6 +10362,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>White</animal_color>
             <date>2015-09-19T00:00:00</date>
@@ -9924,6 +10387,7 @@
             <animal_name>Mia</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Lhasa Apso</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9949,6 +10413,7 @@
             <animal_name>Vivie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9971,6 +10436,7 @@
             <animal_name>Russell</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -9993,6 +10459,7 @@
             <animal_name>Jedda</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Japanese Chin</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10015,6 +10482,7 @@
             <animal_name>Jazzy</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Maltese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10036,6 +10504,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>German Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10058,6 +10527,7 @@
             <animal_name>Little</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10079,6 +10549,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>German Shepherd</animal_breed>
             <animal_color>Brown / Black</animal_color>
@@ -10104,6 +10575,7 @@
             <animal_name>Violet</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10126,6 +10598,7 @@
             <animal_name>Tayson</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10148,6 +10621,7 @@
             <animal_name>Dutch</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Pit Bull Terrier</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10170,6 +10644,7 @@
             <animal_name>Trouble</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10192,6 +10667,7 @@
             <animal_name>Indie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10217,6 +10693,7 @@
             <animal_name>Kaya Papaya</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10242,6 +10719,7 @@
             <animal_name>Fei/camilla</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pit Bull</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10267,6 +10745,7 @@
             <animal_name>Peanut</animal_name>
             <animal_type>Cat</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10288,6 +10767,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Eskimo</animal_breed>
             <animal_color>White / Brown</animal_color>
@@ -10315,6 +10795,7 @@
             <animal_name>Maybel</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Beagle</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10337,6 +10818,7 @@
             <animal_name>Pedro</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10362,6 +10844,7 @@
             <animal_name>Angelo</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10387,6 +10870,7 @@
             <animal_name>Greco</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10412,6 +10896,7 @@
             <animal_name>Soli</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10437,6 +10922,7 @@
             <animal_name>Luke</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Australian Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10462,6 +10948,7 @@
             <animal_name>Gypsy</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10486,6 +10973,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>White</animal_color>
@@ -10506,6 +10994,7 @@
             <animal_name>Alvin</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Maltese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10531,6 +11020,7 @@
             <animal_name>Ike</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>English Setter</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10553,6 +11043,7 @@
             <animal_name>Caper</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Shih Tzu</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10574,6 +11065,7 @@
             <current_location>Cat &amp; Kaboodle</current_location>
             <animal_type>Cat</animal_type>
             <age>3 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -10592,6 +11084,7 @@
             <current_location>Cat &amp; Kaboodle</current_location>
             <animal_type>Cat</animal_type>
             <age>3 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -10611,6 +11104,7 @@
             <animal_name>Mordecai</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Maine Coon</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10636,6 +11130,7 @@
             <animal_name>Sam</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Labrador Retriever</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10658,6 +11153,7 @@
             <animal_name>Trouble</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10683,6 +11179,7 @@
             <animal_name>Winston</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>British Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10705,6 +11202,7 @@
             <animal_name>Songo</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Australian Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10730,6 +11228,7 @@
             <animal_name>Cinderella</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Siamese</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10754,6 +11253,7 @@
             <current_location>Cat &amp; Kaboodle</current_location>
             <animal_type>Cat</animal_type>
             <age>3 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -10773,6 +11273,7 @@
             <animal_name>Charlie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10795,6 +11296,7 @@
             <animal_name>Amos</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Maine Coon</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10820,6 +11322,7 @@
             <animal_name>Mufasa</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10841,6 +11344,7 @@
             <current_location>In Public Home</current_location>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Himalayan</animal_breed>
             <animal_color>Black</animal_color>
@@ -10866,6 +11370,7 @@
             <animal_name>Boots/mario</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10891,6 +11396,7 @@
             <animal_name>Kitty</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Chihuahua - Long Haired</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10913,6 +11419,7 @@
             <animal_name>Doug</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Australian Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10935,6 +11442,7 @@
             <animal_name>Sally</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10960,6 +11468,7 @@
             <animal_name>Pixel</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -10985,6 +11494,7 @@
             <animal_name>Cookie</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Pomeranian</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -11010,6 +11520,7 @@
             <animal_name>Charlie</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -11032,6 +11543,7 @@
             <animal_name>Tails</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -11057,6 +11569,7 @@
             <animal_name>Stella</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -11081,6 +11594,7 @@
             <animal_name>Lessie</animal_name>
             <animal_type>Dog</animal_type>
             <age>Under 1 year</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Australian Shepherd</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -11106,6 +11620,7 @@
             <animal_name>Posie</animal_name>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -11125,6 +11640,7 @@
             <animal_name>Spoopy</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -11150,6 +11666,7 @@
             <animal_name>Posie</animal_name>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -11175,6 +11692,7 @@
             <animal_name>Stella</animal_name>
             <animal_type>Dog</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>Miniature Schnauzer</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -11200,6 +11718,7 @@
             <animal_name>Tabor</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Female</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -11222,6 +11741,7 @@
             <animal_name>Sammy</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>Manx</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -11247,6 +11767,7 @@
             <animal_name>Diego</animal_name>
             <animal_type>Cat</animal_type>
             <age>Over 1 year</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Male</animal_gender>
             <animal_breed>American Shorthair</animal_breed>
             <animal_color>Unknown</animal_color>
@@ -11269,6 +11790,7 @@
             <animal_name>Mazzy</animal_name>
             <animal_type>Cat</animal_type>
             <age>8 YEARS</age>
+            <yearsOld>8</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Black</animal_color>
@@ -11294,6 +11816,7 @@
             <animal_name>Zima</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>White</animal_color>
@@ -11320,6 +11843,7 @@
             <current_location>In RASKC Foster Home</current_location>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray Tabby</animal_color>
@@ -11347,6 +11871,7 @@
             <animal_name>Donnie</animal_name>
             <animal_type>Cat</animal_type>
             <age>3 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -11374,6 +11899,7 @@
             <animal_name>Tigger</animal_name>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby / White</animal_color>
@@ -11393,6 +11919,7 @@
             <animal_name>Nike</animal_name>
             <animal_type>Cat</animal_type>
             <age>4 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -11412,6 +11939,7 @@
             <animal_name>Sam I Am</animal_name>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -11431,6 +11959,7 @@
             <animal_name>Riley</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>White / Gray</animal_color>
@@ -11456,6 +11985,7 @@
             <animal_name>Riley</animal_name>
             <animal_type>Cat</animal_type>
             <age>2 YEARS</age>
+            <yearsOld>2</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>White / Gray</animal_color>
@@ -11475,6 +12005,7 @@
             <animal_name>Amigo</animal_name>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby / White</animal_color>
@@ -11494,6 +12025,7 @@
             <animal_name>Spooky</animal_name>
             <animal_type>Cat</animal_type>
             <age>1 YEAR 6 MONTHS</age>
+            <yearsOld>1</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -11521,6 +12053,7 @@
             <animal_name>Amigo</animal_name>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby / White</animal_color>
@@ -11546,6 +12079,7 @@
             <animal_name>Smoky</animal_name>
             <animal_type>Cat</animal_type>
             <age>10 YEARS</age>
+            <yearsOld>10</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray / White</animal_color>
@@ -11573,6 +12107,7 @@
             <animal_name>Flynn</animal_name>
             <animal_type>Cat</animal_type>
             <age>10 YEARS</age>
+            <yearsOld>10</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby</animal_color>
@@ -11598,6 +12133,7 @@
             <animal_name>Flynn</animal_name>
             <animal_type>Cat</animal_type>
             <age>10 YEARS</age>
+            <yearsOld>10</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Org Tabby</animal_color>
@@ -11617,6 +12153,7 @@
             <animal_name>Parker</animal_name>
             <animal_type>Cat</animal_type>
             <age>5 YEARS</age>
+            <yearsOld>5</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>White / Black</animal_color>
@@ -11644,6 +12181,7 @@
             <animal_name>Muggels</animal_name>
             <animal_type>Cat</animal_type>
             <age>12 YEARS</age>
+            <yearsOld>12</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>
@@ -11671,6 +12209,7 @@
             <animal_name>Freckles</animal_name>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Tortie</animal_color>
@@ -11697,6 +12236,7 @@
             <current_location>Cat &amp; Kaboodle</current_location>
             <animal_type>Cat</animal_type>
             <age>4 MONTHS</age>
+            <yearsOld>0</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -11716,6 +12256,7 @@
             <animal_name>Oscar</animal_name>
             <animal_type>Cat</animal_type>
             <age>14 YEARS</age>
+            <yearsOld>14</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Orange / White</animal_color>
@@ -11743,6 +12284,7 @@
             <animal_name>Bella</animal_name>
             <animal_type>Cat</animal_type>
             <age>13 YEARS</age>
+            <yearsOld>13</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Longhair</animal_breed>
             <animal_color>Tortie</animal_color>
@@ -11770,6 +12312,7 @@
             <animal_name>Sunny</animal_name>
             <animal_type>Cat</animal_type>
             <age>11 YEARS</age>
+            <yearsOld>11</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Mediumhair</animal_breed>
             <animal_color>Orange / White</animal_color>
@@ -11797,6 +12340,7 @@
             <animal_name>Cloe</animal_name>
             <animal_type>Cat</animal_type>
             <age>13 YEARS</age>
+            <yearsOld>13</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Gray</animal_color>
@@ -11816,6 +12360,7 @@
             <animal_name>Patches</animal_name>
             <animal_type>Cat</animal_type>
             <age>12 YEARS</age>
+            <yearsOld>12</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Tortie</animal_color>
@@ -11843,6 +12388,7 @@
             <animal_name>Penny</animal_name>
             <animal_type>Cat</animal_type>
             <age>7 YEARS</age>
+            <yearsOld>7</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Calico</animal_color>
@@ -11870,6 +12416,7 @@
             <animal_name>Shelby</animal_name>
             <animal_type>Dog</animal_type>
             <age>9 YEARS</age>
+            <yearsOld>9</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Dalmatian / Mix</animal_breed>
             <animal_color>White</animal_color>
@@ -11897,6 +12444,7 @@
             <animal_name>Missy</animal_name>
             <animal_type>Cat</animal_type>
             <age>13 YEARS</age>
+            <yearsOld>13</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -11924,6 +12472,7 @@
             <animal_name>Lilly</animal_name>
             <animal_type>Cat</animal_type>
             <age>9 YEARS</age>
+            <yearsOld>9</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Blue / White</animal_color>
@@ -11951,6 +12500,7 @@
             <animal_name>Ruby</animal_name>
             <animal_type>Cat</animal_type>
             <age>13 YEARS</age>
+            <yearsOld>13</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby / White</animal_color>
@@ -11978,6 +12528,7 @@
             <animal_name>Jupie</animal_name>
             <animal_type>Cat</animal_type>
             <age>13 YEARS</age>
+            <yearsOld>13</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tiger / White</animal_color>
@@ -12005,6 +12556,7 @@
             <animal_name>Pearl</animal_name>
             <animal_type>Cat</animal_type>
             <age>16 YEARS</age>
+            <yearsOld>16</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black / White</animal_color>
@@ -12032,6 +12584,7 @@
             <animal_name>Kiki</animal_name>
             <animal_type>Cat</animal_type>
             <age>12 YEARS</age>
+            <yearsOld>12</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -12059,6 +12612,7 @@
             <animal_name>Missy</animal_name>
             <animal_type>Cat</animal_type>
             <age>12 YEARS</age>
+            <yearsOld>12</yearsOld>
             <animal_gender>Spayed Female</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Black</animal_color>
@@ -12086,6 +12640,7 @@
             <animal_name>Freckles</animal_name>
             <animal_type>Cat</animal_type>
             <age>3 YEARS</age>
+            <yearsOld>3</yearsOld>
             <animal_gender>Neutered Male</animal_gender>
             <animal_breed>Domestic Shorthair</animal_breed>
             <animal_color>Brn Tabby</animal_color>

@@ -31,7 +31,7 @@ body {
 #year-buttons {
     width:15%;
     float:left;
-    background-color: #7094B8;
+    background-color: #ADC2D6;
     border-radius:5px;
 }
 
@@ -68,7 +68,7 @@ body {
 }
 #year-buttons .head {
     width:100%;
-    font-size:28px;
+    font-size:20px;
     padding:15px 0;
     margin:0;
     text-align: center;

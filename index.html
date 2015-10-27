@@ -13,28 +13,41 @@
 
   <div id="container" class="col-lg-10 col-lg-offset-1">
     <div class="header">
-      Statistics on NY Deaths
+      Lost and Found
       <div id="byline">
-        In a city as big and densly populated as New York, studying pattens of deaths can
-        be informative and interesting. The graphs and charts below represent data
+        blah blah blah  The graphs and charts below represent data
         collected in NYC from 2007-2011.
       </div>
     </div>
 
-    <div id="year-buttons" style="float: right;">
-		    <h3 class="head"><strong>Select a Year</strong></h3>
-		    <h3 class="left current" id="y0" value="">2007</h3>
-		    <h3 class="left" id="y7" value="">2008</h3>
-		    <h3 class="left" id="y1" value="">2009</h3>
-		    <h3 class="left" id="y8" value="">2010</h3>
-		    <h3 class="left" id="y2" value="">2011</h3>
-		    <h3 class="head expand" id="expand-pies"><strong>Compare<br>Pie Graphs</strong></h3>
-		</div>
-
-    <div id="bar" style="width:48%; height:400px;"></div>
-    <div class="col-lg-6">
-      <div id="pie" style="width:100%; height:400px; float: right;"></div>
+    <div class="col-lg-9">
+      <div id="bar" style="width:100%; height:400px;"></div>
     </div>
+    <div class="col-lg-3">
+      <!-- <div id="bar" style="width:100%; height:400px;"></div> -->
+      lksjlksj
+    </div>
+
+
+    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+      <div id="pie1" style="width:100%; height:400px; float: right;"></div>
+    </div>
+    <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12" id="year-buttons">
+		    <h3 class="head"><strong>Select a Record</strong></h3>
+		    <h3 class="left current" value="" onclick="loadFoundPieChart()">Found</h3>
+		    <h3 class="left" value="" onclick="loadLostPieChart()">Lost</h3>
+		    <h3 class="left" value="" onclick="loadAdoptablePieChart()">Adoptable</h3>
+		    <h3 class="head" id="expand-pies">The type of animals that </h3>
+		</div>
+    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+      <div id="pie2" style="width:100%; height:400px; float: right;"></div>
+    </div>
+
+
+
+
+
+    <p></p>
 
     <table id="myTable" class="display" cellspacing="0" width="100%">
       <thead>
