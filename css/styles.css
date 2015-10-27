@@ -1,0 +1,105 @@
+
+
+
+
+
+
+body {
+  background-color: #336699;
+}
+
+#container {
+  background-color: white;
+}
+
+.header {
+  font-size: 35px;
+  color: #336699;
+  font-weight: bold;
+  padding: 1em;
+}
+
+#byline {
+  font-size: 15px;
+  color: #6F6F6F;
+  font-weight: normal;
+  padding-top: 1em;
+}
+
+
+
+#year-buttons {
+    width:15%;
+    float:left;
+    background-color: #7094B8;
+    border-radius:5px;
+}
+
+#year-buttons .left {
+    width:100%;
+    font-family:Franklin-Thin, sans-serif;
+    font-size:24px;
+    float:left;
+    border:1px solid #333;
+    border-left:none;
+    border-right: none;
+    padding:8px 0;
+    margin:0;
+    border-radius:none;
+    text-align: center;
+    border-top:none;
+    cursor: pointer;
+}
+
+#year-buttons .left:nth-child(odd) {
+    border-right:none;
+}
+#year-buttons #y6, #year-buttons #y13 {
+    border-bottom:none;
+}
+#year-buttons .left:hover {
+    background-color:#aaa;
+}
+#year-buttons .current {
+    background-color:#eee;
+}
+#year-buttons .current:hover {
+    background-color:#eee;
+}
+#year-buttons .head {
+    width:100%;
+    font-size:28px;
+    padding:15px 0;
+    margin:0;
+    text-align: center;
+    font-family:Franklin-Thin, sans-serif;
+}
+#year-buttons .head:hover {
+    background-color:#76c2a9;
+    border-radius:5px;
+}
+#expand-pies {
+    cursor:pointer;
+    float:left;
+}
+#year-buttons #expand-pies:hover {
+    background-color:#aaa;
+}
+
+.bottom {
+    float:left;
+    padding:0;
+
+    width:57%;
+    border-radius:5px;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
