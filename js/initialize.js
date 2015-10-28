@@ -163,7 +163,7 @@ function parseData(xml){
       .append($("<td>" + (($(this).find("age")).text()).toLowerCase() +"</td>"))
       .append($("<td>" + ($(this).find("animal_gender")).text() +"</td>"))
       .append($("<td>" + ($(this).find("animal_breed")).text() +"</td>"))
-      .append($("<td>" + ($(this).find("state")).text() +"</td>"))
+      .append($("<td>" + (($(this).find("city")).text()).toLowerCase() +"</td>"))
       .append($("<td>" + htmlLink +"</td>"));
 
     $("#myTable tbody").append(row);
@@ -177,7 +177,7 @@ $('#bar').highcharts({
         type: 'column'
     },
     title: {
-        text: 'Class Demographics'
+        text: 'Status by Age'
     },
     xAxis: {
         categories: ageRange

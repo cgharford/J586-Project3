@@ -5,7 +5,7 @@
 
 
 body {
-  background-color: #336699;
+  background-color: #f1f1f1;
 }
 
 #container {
@@ -13,10 +13,10 @@ body {
 }
 
 .header {
-  font-size: 35px;
+  font-size: 50px;
   color: #336699;
   font-weight: bold;
-  padding: 1em;
+  padding: .5em 1em .5em 1em;
 }
 
 #byline {
@@ -26,6 +26,26 @@ body {
   padding-top: 1em;
 }
 
+#blue-bar {
+  background-color: #4775A3;
+  height: 2px;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+#intro {
+  padding: 1.5em;
+  background: -webkit-linear-gradient(#BFCFDF, white);
+  border-top: 4px solid #4775A3;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-bottom: 2em;
+}
+
+.article-text {
+  font-family: Georgia;
+  font-size: 12pt;
+}
 
 
 #year-buttons {
@@ -102,4 +122,18 @@ h3 {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     font-weight: bold;
+}
+
+#footer {
+  background-color: black;
+  height: 100px;
+  color: #6F6F6F;
+  text-align: center;
+  padding: 2em;
+  font-size: 18px;
+}
+
+#footer-source {
+  color: #F4F4F4;
+  font-size: 14px;
 }
