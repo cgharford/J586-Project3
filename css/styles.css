@@ -129,11 +129,12 @@ h3 {
   height: 100px;
   color: #6F6F6F;
   text-align: center;
-  padding: 2em;
+  padding: 2em 2em 5em 2em;
   font-size: 18px;
+  line-height: 150%;
 }
 
 #footer-source {
-  color: #F4F4F4;
+  color: #E0E0E0;
   font-size: 14px;
 }
