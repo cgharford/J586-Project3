@@ -1,12 +1,8 @@
 var xml;
-var femaleDeaths = [0, 0, 0, 0, 0];
-var maleDeaths = [0, 0, 0, 0, 0];
-
 var petTypes = ["Dog", "Cat", "Reptile", "Rabbit"];
 var foundPetTypesCounts = [0, 0, 0, 0];
 var lostPetTypesCounts = [0, 0, 0, 0];
 var adoptablePetTypesCounts = [0, 0, 0, 0];
-
 var recordType= ["Found", "Lost", "Adoptable"];
 var overallRecordCounts= [0, 0, 0];
 var ageRange = ["Under 1 year old", "Over 1 year old", "Unknown"]
@@ -14,6 +10,10 @@ var foundAgeCount = [0, 0, 0];
 var lostAgeCount = [0, 0, 0];
 var adoptableAgeCount = [0, 0, 0];
 
+$(document).ready(function(){
+  console.log("doc ready!");
+  loadData();
+})
 
 function loadData(){
   $.ajax({
@@ -24,15 +24,14 @@ function loadData(){
   });
 }
 
-function parseData(xml){
+var totalDead=0;
 
+function parseData(xml){
   // Build the pie graphs
   $(xml).find("row").each(function(index){
     var type = ($(this).find("animal_type")).text();
-    // if ($.inArray(type, petTypes) == -1) {
-    //   petTypes.push(type);
-    // }
     var record = ($(this).find("record_type")).text();
+
     switch(record) {
     case "FOUND":
         overallRecordCounts[0] += 1;
@@ -45,9 +44,11 @@ function parseData(xml){
             break;
         case "Dead Dog":
             foundPetTypesCounts[0] += 1;
+            totalDead += 1;
             break;
         case "Dead Cat":
             foundPetTypesCounts[1] += 1;
+            totalDead += 1;
             break;
         case "Reptile":
             foundPetTypesCounts[2] += 1;
@@ -68,9 +69,11 @@ function parseData(xml){
             break;
         case "Dead Dog":
             lostPetTypesCounts[0] += 1;
+            totalDead += 1;
             break;
         case "Dead Cat":
             lostPetTypesCounts[1] += 1;
+            totalDead += 1;
             break;
         case "Reptile":
             lostPetTypesCounts[2] += 1;
@@ -91,9 +94,11 @@ function parseData(xml){
             break;
         case "Dead Dog":
             adoptablePetTypesCounts[0] += 1;
+            totalDead += 1;
             break;
         case "Dead Cat":
             adoptablePetTypesCounts[1] += 1;
+            totalDead += 1;
             break;
         case "Reptile":
             adoptablePetTypesCounts[2] += 1;
@@ -172,32 +177,32 @@ function parseData(xml){
 }
 
 function buildChart() {
-$('#bar').highcharts({
-    chart: {
-        type: 'column'
-    },
-    title: {
-        text: 'Status by Age'
-    },
-    xAxis: {
-        categories: ageRange
-    },
-    yAxis: {
-        title: {
-            text: 'Number of animals'
-        }
-    },
-    series: [{
-        name: 'Found',
-        data: foundAgeCount
-    }, {
-        name: 'Lost',
-        data: lostAgeCount
-    }, {
-        name: 'Adoptable',
-        data: adoptableAgeCount
-    }]
-});
+  $('#bar').highcharts({
+      chart: {
+          type: 'column'
+      },
+      title: {
+          text: ''
+      },
+      xAxis: {
+          categories: ageRange
+      },
+      yAxis: {
+          title: {
+              text: 'Number of animals'
+          }
+      },
+      series: [{
+          name: 'Found',
+          data: foundAgeCount
+      }, {
+          name: 'Lost',
+          data: lostAgeCount
+      }, {
+          name: 'Adoptable',
+          data: adoptableAgeCount
+      }]
+  });
 };
 
 function buildPie() {
@@ -209,7 +214,7 @@ function buildPie() {
           type: 'pie'
       },
       title: {
-          text: 'Overall Counts for Animals'
+          text: ''
       },
       tooltip: {
           pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
@@ -252,7 +257,7 @@ function buildPie() {
           type: 'pie'
       },
       title: {
-          text: 'Animal Type by Record'
+          text: ''
       },
       tooltip: {
           pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
@@ -292,11 +297,6 @@ function buildPie() {
   });
 };
 
-$(document).ready(function(){
-  console.log("doc ready!");
-  loadData();
-})
-
 function loadFoundPieChart() {
   $('#pie2').highcharts({
       chart: {
@@ -306,7 +306,7 @@ function loadFoundPieChart() {
           type: 'pie'
       },
       title: {
-          text: 'Animal Type by Record'
+          text: ''
       },
       tooltip: {
           pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
@@ -344,6 +344,9 @@ function loadFoundPieChart() {
           }]
       }]
   });
+  $('#found-pie').addClass( "current");
+  $('#lost-pie').removeClass( "current");
+  $('#adoptable-pie').removeClass( "current");
 }
 
 function loadLostPieChart() {
@@ -355,7 +358,7 @@ function loadLostPieChart() {
           type: 'pie'
       },
       title: {
-          text: 'Animal Type by Record'
+          text: ''
       },
       tooltip: {
           pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
@@ -393,6 +396,9 @@ function loadLostPieChart() {
           }]
       }]
   });
+  $('#found-pie').removeClass( "current");
+  $('#lost-pie').addClass( "current");
+  $('#adoptable-pie').removeClass( "current");
 }
 
 function loadAdoptablePieChart() {
@@ -404,7 +410,7 @@ function loadAdoptablePieChart() {
           type: 'pie'
       },
       title: {
-          text: 'Animal Type by Record'
+          text: ''
       },
       tooltip: {
           pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
@@ -442,4 +448,7 @@ function loadAdoptablePieChart() {
           }]
       }]
   });
+  $('#found-pie').removeClass( "current");
+  $('#lost-pie').removeClass( "current");
+  $('#adoptable-pie').addClass( "current");
 }

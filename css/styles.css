@@ -1,11 +1,10 @@
-
-
-
-
-
-
 body {
   background-color: #f1f1f1;
+}
+
+#header-bar {
+  background-color:
+  black; height: 50px;
 }
 
 #container {
@@ -33,6 +32,15 @@ body {
   margin-left: 30px;
 }
 
+.grey-bar {
+  background-color: #E6E6E6;
+  height: 1px;
+  /*width: 70%;*/
+  margin-top: 1em;
+  margin-bottom: 1em;
+  /*margin-right: 0px;*/
+}
+
 #intro {
   padding: 1.5em;
   background: -webkit-linear-gradient(#BFCFDF, white);
@@ -47,19 +55,65 @@ body {
   font-size: 12pt;
 }
 
-
-#year-buttons {
-    width:15%;
-    float:left;
-    background-color: #ADC2D6;
-    border-radius:5px;
+.content-title {
+  color: #7094B8;
+  font-size: 25px;
+  margin: 10px;
 }
 
-#year-buttons .left {
-    width:100%;
-    font-family:Franklin-Thin, sans-serif;
+.graphic-size {
+  width:100%;
+  height:400px;
+}
+
+.graphic-info {
+  font-style: italic;
+  margin: 10px 10px 20px 10px;
+}
+
+.graphic-spacing {
+  margin-bottom: 0px;
+}
+
+.info-box {
+  background-color: #E6E6E6;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: .5em;
+  text-align: center;
+}
+
+#young-pet-percentage {
+  font-size: 25px;
+  font-weight: bold;
+  color: #AD5C5C;
+}
+
+#dead-pets-percentage {
+  font-size: 25px;
+  font-weight: bold;
+  color: #5C85AD;
+}
+
+#biggest-city {
+  font-size: 25px;
+  font-weight: bold;
+  color: #5E5E5E;
+}
+
+#top-spacing{
+  padding-top: 5em;
+}
+
+
+#buttons {
+    background-color: #ADC2D6;
+    border-radius:5px;
+    padding: .5em;
+}
+
+#buttons .left {
     font-size:24px;
-    float:left;
     border:1px solid #333;
     border-left:none;
     border-right: none;
@@ -71,45 +125,46 @@ body {
     cursor: pointer;
 }
 
-#year-buttons .left:nth-child(odd) {
+#buttons .left:nth-child(odd) {
     border-right:none;
 }
-#year-buttons #y6, #year-buttons #y13 {
+#buttons #y6, #buttons #y13 {
     border-bottom:none;
 }
-#year-buttons .left:hover {
-    background-color:#aaa;
+#buttons .left:hover {
+    background-color:#D69999;
+    border-radius:5px;
 }
-#year-buttons .current {
+#buttons .current {
+    background-color:#eee;
+    border-radius: .15em;
+}
+#buttons .current:hover {
     background-color:#eee;
 }
-#year-buttons .current:hover {
-    background-color:#eee;
-}
-#year-buttons .head {
+#buttons .head {
+    color: white;
     width:100%;
     font-size:20px;
     padding:15px 0;
     margin:0;
     text-align: center;
-    font-family:Franklin-Thin, sans-serif;
+    font-family:Georgia;
 }
-#year-buttons .head:hover {
-    background-color:#76c2a9;
-    border-radius:5px;
-}
-#expand-pies {
-    cursor:pointer;
-    float:left;
-}
-#year-buttons #expand-pies:hover {
-    background-color:#aaa;
+#buttons .foot {
+    color: white;
+    width:100%;
+    font-size:14px;
+    padding:15px 0;
+    margin:0;
+    text-align: center;
+    font-family:Georgia;
+    font-weight: normal;
 }
 
 .bottom {
     float:left;
     padding:0;
-
     width:57%;
     border-radius:5px;
 }
@@ -126,10 +181,9 @@ h3 {
 
 #footer {
   background-color: black;
-  height: 100px;
   color: #6F6F6F;
   text-align: center;
-  padding: 2em 2em 5em 2em;
+  padding: 2em 2em 2em 2em;
   font-size: 18px;
   line-height: 150%;
 }

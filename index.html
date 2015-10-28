@@ -1,57 +1,85 @@
 <html>
-<head>
-  <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <title>Lost and Found</title>
-  <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
-  <link rel="stylesheet" type="text/css" href="css/styles.css">
-</head>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <title>Lost and Found</title>
+    <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+  </head>
 <body>
-
-  <div class="row" style="background-color: black; height: 75px;"></div>
+  <div class="row" id="header-bar"></div>
   <div class="row">
     <div id="container" class="col-lg-10 col-lg-offset-1">
       <div class="header">
         Lost and Found
         <div id="byline">
-          Washington's animal shelters have recorded the details of their furry friend's needs
+          Animal shelters have recorded the details of their furry friend's needs
         </div>
       </div>
-      <!-- <div id="blue-bar"></div> -->
-
       <div class="article-text" id="intro">
-        This San Diego home prices were up 0.3 percent in August from July, mirroring
-        the national average, the S&P/Case-Shiller Home Price Indices released Tuesday showed.
+        How many pets are far from home or in need of a home? Is age a significant contributing
+        factor to their status? Animal shelters address these issues by keeping records
+        of the animals they have kept track of.
+        This data has been drawn from the records of Washington state's animal shelters.
       </div>
-
-      <div class="col-lg-9">
-        <div id="bar" style="width:100%; height:400px;"></div>
+      <div class="col-lg-9 col-md-9 col-sm-9">
+        <div class="content-title">Pet Counts by Age</div>
+        <div class="graphic-info">
+          Discover the relationship between an animal's age and its status.
+        </div>
+        <div id="bar" class="graphic-size"></div>
       </div>
-      <div class="col-lg-3">
-        <!-- <div id="bar" style="width:100%; height:400px;"></div> -->
-        lksjlksj
+      <div class="col-lg-3 col-md-3 col-sm-3">
+        <div class="content-title">Interesting Facts</div>
+        <div class="info-box col-lg-12 col-md-12 col-sm-12">
+          Of the total amount of pets recorded as lost, found, or adoptable,
+          <div id="young-pet-percentage">23%</div> are less than one year old.
+        </div>
+        <div class="info-box col-lg-12 col-md-12 col-sm-12">
+          Out of the overall cats and dogs that were found, <div id="dead-pets-percentage">4%</div>
+          were recorded as found dead.
+        </div>
+        <div class="info-box col-lg-12 col-md-12 col-sm-12">
+          Of all the cities recorded, <div id="biggest-city">Kent, WA</div>
+          had the largest amount of overall pet entries.
+        </div>
       </div>
-
-
+      <div class="grey-bar col-lg-12 col-md-12 col-xs-12 col-xs-12"></div>
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-        <div id="pie1" style="width:100%; height:400px; float: right;"></div>
+        <div class="content-title">Overall Count by Status</div>
+        <div class="graphic-info graphic-spacing">
+          Hover over the graph to learn about the status of tracked pets.
+        </div>
+        <div id="pie1" class="graphic-size"></div>
       </div>
-      <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12" id="year-buttons">
-  		    <h3 class="head"><strong>Select a Record</strong></h3>
-  		    <h3 class="left current" value="" onclick="loadFoundPieChart()">Found</h3>
-  		    <h3 class="left" value="" onclick="loadLostPieChart()">Lost</h3>
-  		    <h3 class="left" value="" onclick="loadAdoptablePieChart()">Adoptable</h3>
-  		    <h3 class="head" id="expand-pies">The type of animals that </h3>
-  		</div>
+      <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12" id="top-spacing">
+        <div id="buttons">
+    		    <h3 class="head">Select a Record</h3>
+    		    <h3 class="left current" id="found-pie" onclick="loadFoundPieChart()">Found</h3>
+    		    <h3 class="left" id="lost-pie" onclick="loadLostPieChart()">Lost</h3>
+    		    <h3 class="left" id="adoptable-pie" onclick="loadAdoptablePieChart()">Adoptable</h3>
+    		    <h3 class="foot">
+              Explore the relationship between animal statuses and the animal's type.
+            </h3>
+    		</div>
+      </div>
       <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-        <div id="pie2" style="width:100%; height:400px; float: right;"></div>
+        <div class="content-title">Animal Type by Status</div>
+        <div class="graphic-info graphic-spacing">
+          Explore the different proportions of animal types recorded.
+        </div>
+        <div id="pie2" class="graphic-size"></div>
       </div>
-
-      <p></p>
-
+      <div class="grey-bar col-lg-12 col-md-12 col-xs-12 col-xs-12"></div>
+      <div class="col-lg-12 col-md-12 col-xs-12 col-xs-12">
+        <div class="content-title">Complete Pet Listing </div>
+        <div class="graphic-info">
+          Browse, search, and view data to find specific information about pets.
+        </div>
+      </div>
       <table id="myTable" class="display" cellspacing="0" width="100%">
         <thead>
           <tr>
@@ -82,7 +110,6 @@
       </table>
       <br>
     </div>
-
   </div>
   <div id="footer">
     All data and material from this page has been extracted from a public dataset on Data.gov
@@ -90,7 +117,7 @@
   </div>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script src="http://code.highcharts.com/highcharts.js"></script>
-  <script src="js/gray.js"></script>
+  <script src="js/highchartStyle.js"></script>
   <script src="js/jquery.dataTables.min.js"></script>
   <script src="js/initialize.js"></script>
   </body>
